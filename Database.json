@@ -1,0 +1,33 @@
+{
+	"user_1": {
+      "age": 65,
+      "favorite_movies": [
+        {
+          "title": "Pulp Fiction",
+          "description": "The lives of ...",
+          "imdb_rating": 8.9,
+          "genres": [
+            "dark_comedy",
+            "crime"
+          ]
+        },
+        {
+          "description": "A young woman ...",
+          "genres": [
+            "comedy",
+            "heist"
+          ],
+          "imdb_rating": 7.6,
+          "title": "Bande à part"
+        }
+      ],
+      "name": "Robert",
+      "surname": "Smith"
+    },
+  "user_2": {
+    "name": "Sioux",
+    "surname": "Siouxsie",
+		"age": 67,
+		"favorite_movies": []
+	}
+}
